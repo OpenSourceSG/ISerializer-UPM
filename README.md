@@ -1,8 +1,7 @@
 # ISerializer
 
-![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://github.com/OpenSourceSG/ISerializer-UPM/blob/main/LICENSE.md)
 ![Unity](https://img.shields.io/badge/unity-2021.3%2B-green.svg)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/OpenSourceSG/ISerializer)
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkcyY4bx0KkkorMIs_lBtLg)
 
 **ISerializer** is a unity editor extension that allows you to serialize **interface references** directly in the unity inspector. With a simple attribute and property drawer, you can assign any component implementing a given interface, removing the restriction of concrete types.
